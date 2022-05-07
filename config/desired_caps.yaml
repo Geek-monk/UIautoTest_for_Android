@@ -1,0 +1,22 @@
+# @Time         : 2021/6/4 11:19 上午
+# @Author       : Geekmonk
+# @Software     : PyCharm
+# @Project name :UTautotest
+# Case name     :devicesInfo
+
+# Android设备信息
+platformName: 'Android'
+platformVersion: '10'
+deviceName: 'GBG5T19725006328'
+newCommandTimeout: '15'
+allowTestPackages: True
+autoGrantPermissions: True
+ensureWebviewsHavePages: True
+unicodeKeyboard: True
+resetKeyboard: True
+noReset: True
+appPackage: 'com.xxxx.xxxx'
+appActivity: '.Activity'
+automationName: 'uiautomator2'
+url: 127.0.0.1
+port: 4723

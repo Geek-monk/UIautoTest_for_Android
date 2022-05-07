@@ -1,0 +1,6 @@
+unittestreport==1.2.2
+uiautomator2==2.16.0
+requests==2.24.0
+selenium==3.141.0
+Appium_Python_Client==1.2.0
+PyYAML==5.4.1
